@@ -4,7 +4,7 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
 
 ![Multi-step Form Preview](public/images/multi-step-form-preview.png)
 
-🚀 **Live Demo:** [View on Vercel](https://your-live-site-url.com)  
+🚀 **Live Demo:** [View on Vercel](https://multi-step-form-rosy-zeta.vercel.app/)  
 📂 **GitHub Repo:** [View on GitHub](https://github.com/AsadAli-1122/multi-step-form.git)
 
 ## 📌 Features
