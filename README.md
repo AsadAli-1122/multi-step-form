@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Frontend Mentor - Multi-step Form
 
-## Getting Started
+This is a solution to the [Multi-step form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/multistep-form-YVAnSdqQBJ). This project focuses on building an accessible, responsive, and user-friendly form.
 
-First, run the development server:
+![Multi-step Form Preview](public/images/multi-step-form-preview.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🚀 **Live Demo:** [View on Vercel](https://your-live-site-url.com)  
+📂 **GitHub Repo:** [View on GitHub](https://github.com/AsadAli-1122/multi-step-form)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📌 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+✅ Multi-step form navigation 🔄  
+✅ Responsive design for all screen sizes 📱💻  
+✅ Accessible (a11y) elements for better UX ♿  
+✅ Built with Next.js App Router for better performance ⚡  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Built With
 
-## Learn More
+- **Next.js** – SSR & optimized routing
+- **TypeScript** – Type safety & maintainability
+- **Tailwind CSS** – Utility-first styling for a modern UI
+- **React Hook Form** – Efficient form handling
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Challenges & Learnings
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Designed **accessible form components** with proper focus states
+- Ensured **mobile-first responsive UI** using Tailwind
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ✨ Author
 
-## Deploy on Vercel
+🚀 **Asad Ali**  
+🔗 [Portfolio](https://codebyasad.vercel.app) | 🐙 [GitHub](https://github.com/AsadAli-1122) | 💡 [Frontend Mentor](https://www.frontendmentor.io/profile/AsadAli-1122)  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
