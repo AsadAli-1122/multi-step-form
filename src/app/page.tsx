@@ -84,7 +84,11 @@ export default function Home() {
   const handleAddonChange = (addon: string) => {
     setFormData((prev) => {
       const newAddons = new Set(prev.addons);
-      newAddons.has(addon) ? newAddons.delete(addon) : newAddons.add(addon);
+      if (newAddons.has(addon)) {
+        newAddons.delete(addon);
+      } else {
+        newAddons.add(addon);
+      }
       return { ...prev, addons: Array.from(newAddons) };
     });
   };
