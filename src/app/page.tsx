@@ -53,7 +53,7 @@ export default function Home() {
   const [confirmed, setConfirmed] = useState(false);
 
   const validate = () => {
-    let newErrors = { name: "", email: "", phone: "" };
+    const newErrors = { name: "", email: "", phone: "" };
     if (!formData.name) newErrors.name = "Name is required";
     if (!formData.email) newErrors.email = "Email is required";
     if (!formData.phone) newErrors.phone = "Phone is required";
