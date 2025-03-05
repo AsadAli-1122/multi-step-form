@@ -12,7 +12,9 @@ export default function RootLayout({
         <title>Multi Step Form</title>
       </head>
       <body className="bg-sky-100">
+        <main>
         {children}
+        </main>
       </body>
     </html>
   );
